@@ -1,7 +1,7 @@
 {
-  "name": "the-new-sandbox",
-  "version": "0.5.0",
-  "description": "Sandbox site featuring typical Apostrophe features",
+  "name": "Test Website",
+  "version": "0.1.0",
+  "description": "My first testing website using apostrophe.....",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
